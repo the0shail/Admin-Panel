@@ -122,7 +122,7 @@ li.active svg {
 
 @media screen and (max-width: 992px) {
     .title {
-        padding: 58px 0 67px 15px;
+        padding: 58px 0 67px 14px;
     }
 
     .list,
